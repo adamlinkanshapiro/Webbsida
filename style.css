@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+nav {
+  border: solid green 4px;
+  color: green;
+}
+
+h1 {
+  font-family: "Architects Daughter", serif;
+  padding: 10px;
+  text-align: center;
+  color: green;
+}
+
+h2 {
+  color: green;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+p {
+  font-family: "News Cycle", serif;
+  padding: 10px;
+  text-align: left;
+  color: white;
+}
+
+footer {
+  color: green;
+}
+
+.instagram {
+  color: white;
+}
+
+.instagram:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+html {
+  scroll-behavior: smooth;
+}
